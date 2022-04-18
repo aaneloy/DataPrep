@@ -13,6 +13,10 @@ Data Preparer is an open-source Python package to Clean and Prepare your dataset
 
 ## Installation:
 
+```python
+pip install 
+```
+
 ## Sample Usage
 
 ## License
